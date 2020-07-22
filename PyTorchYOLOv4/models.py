@@ -1,6 +1,5 @@
-from utils.google_utils import *
-from utils.layers import *
-from utils.parse_config import *
+from PyTorchYOLOv4.utils.layers import *
+from PyTorchYOLOv4.utils import torch_utils
 
 ONNX_EXPORT = False
 
